@@ -17,9 +17,8 @@
 
 <div align="center">
 
-### 📈 Linguagens Mais Usadas
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarben-studios&theme=github_dark)
+| Linguagens | Estatísticas |
+|------------|--------------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarben-studios&theme=github_dark" width="400"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarben-studios&theme=github_dark" width="400"/> |
 
-
-### 🏆 Estatísticas Gerais
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarben-studios&theme=github_dark)
+</div>
